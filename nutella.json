@@ -1,0 +1,6 @@
+{
+	"name": "beacon-simulator",
+	"version": "1.0.1",
+	"type": "interface",
+	"description": "Simulate a bunch of beacon that are moving around"
+}
